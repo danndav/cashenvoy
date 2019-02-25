@@ -1,0 +1,158 @@
+/* global */
+
+ol,
+ul {
+  list-style: none;
+  margin-top: -10px;
+  padding:0px;
+}
+
+a {
+  text-decoration: none;
+  color: #484848;
+  margin:0;
+  padding:0;
+  font-size:10px;
+}
+
+
+li{
+    display: inline;
+    padding-bottom:10px;
+    margin-right:10px;  
+}
+
+p{
+    padding-top: 5px;
+    font-size:12px;
+    margin:0;
+}
+
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+
+#formPayment{
+    margin-top: 10px; 
+}
+
+
+#formPayment li img{
+   margin-left: 10px; 
+}
+
+.header-payment{
+    padding-top: 20px;
+    border: solid 0px #484848;
+    max-height: 3rem;
+    -webkit-box-shadow:0px 1px 1px #ccc;
+ -moz-box-shadow:0px 1px 1px #ccc;
+ box-shadow:0px 5px 5px #ccc;
+}
+
+.header-payment img{
+    padding-right: 13px;
+    padding-left: 10px;
+}
+
+.header-payment li:hover {
+    border-bottom: 3px solid #41295A;
+  }
+
+  .header-payment li a{
+    text-decoration: none;
+  }
+
+  .header-payment li {
+    border-bottom: px solid #41295A;
+    padding-bottom:15px;
+  }
+
+.spa-right{
+    float: right;
+    color: #41295A;
+
+}
+.spa-rights{    
+    margin-left: 90px;
+    padding-left: 50px;
+    float: righ
+    
+}
+
+#img-des{
+    margin-top:-10px;
+    margin-bottom:-10px;
+}
+
+#naira{
+    margin-left: 80px;
+    color: #077B50 !important;
+    
+}
+
+.showcase{
+    margin: 31px;
+    padding-left: 0px;
+    padding-top: 15px;
+
+}
+
+.form-control {
+    height: 36px;
+    padding: 7px 0;
+    font-size: 14px;
+    line-height: 1.42857;
+}
+.form-control,
+.form-group .form-control {
+    border: 0;
+    background-image: linear-gradient(#41295A, #41295A), linear-gradient(#41295A, #41295A);
+    background-size: 0 2px, 100% 2px;
+    background-repeat: no-repeat;
+    background-position: center bottom, center calc(100% - 1px);
+    background-color: transparent;
+    transition: background 0s ease-out;
+    float: none;
+    box-shadow: none;
+    border-radius: 0;
+    font-weight: 400;
+    font-size: 10px;
+    border:2px #41295A;
+    height:5px
+
+    
+}
+
+form{
+    border: solid px #484848;
+    
+    -webkit-box-shadow:1px 1px 7px 1px #ccc;
+-moz-box-shadow:1px 1px 7px 1px #ccc;
+box-shadow:1px 1px 7px 1px #ccc;
+margin-top:-20px
+
+    
+}
+
+button{
+    margin-bottom: 10px;
+    padding: 20px;
+    background: #41295A;
+    color: #fff;
+    width:200px;
+    font-size:10px!important;
+   
+    }
+
+    #secure-pay{
+        margin-top:-15px;
+        font-size:10px
+      }
+
+label{
+    color: #41295A;
+    font-size:10px;
+}
+

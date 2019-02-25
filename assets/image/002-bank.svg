@@ -1,0 +1,14 @@
+<svg id="_002-bank" data-name="002-bank" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.27 15.416">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #41295a;
+      }
+    </style>
+  </defs>
+  <g id="Group_826" data-name="Group 826" transform="translate(0 0)">
+    <path id="Path_204" data-name="Path 204" class="cls-1" d="M18.8,55.293a1.546,1.546,0,0,0-1.134-.472H1.606a1.547,1.547,0,0,0-1.134.472A1.546,1.546,0,0,0,0,56.427v12.2a1.546,1.546,0,0,0,.472,1.134,1.547,1.547,0,0,0,1.134.472H17.664a1.611,1.611,0,0,0,1.606-1.606v-12.2A1.546,1.546,0,0,0,18.8,55.293Zm-.813,13.338a.325.325,0,0,1-.321.321H1.606a.325.325,0,0,1-.321-.321v-6.1h16.7v6.1Zm0-9.956H1.285V56.427a.325.325,0,0,1,.321-.321H17.664a.325.325,0,0,1,.321.321v2.248Z" transform="translate(0 -54.821)"/>
+    <rect id="Rectangle_178" data-name="Rectangle 178" class="cls-1" width="2.569" height="1.285" transform="translate(2.569 11.561)"/>
+    <rect id="Rectangle_179" data-name="Rectangle 179" class="cls-1" width="3.854" height="1.285" transform="translate(6.423 11.561)"/>
+  </g>
+</svg>

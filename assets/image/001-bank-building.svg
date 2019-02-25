@@ -1,0 +1,16 @@
+<svg id="_001-bank-building" data-name="001-bank-building" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.869 18.86">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #484848;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1_78_" transform="translate(0 0)">
+    <g id="Group_825" data-name="Group 825">
+      <path id="Path_201" data-name="Path 201" class="cls-1" d="M18,42.718H.858a.858.858,0,0,0,0,1.715H18a.858.858,0,0,0,0-1.715Z" transform="translate(0 -25.573)"/>
+      <path id="Path_202" data-name="Path 202" class="cls-1" d="M3.527,24.384a.858.858,0,0,0,0,1.715h15a.858.858,0,0,0,0-1.715h-.214V16.668h.214a.428.428,0,0,0,0-.857h-15a.428.428,0,0,0,0,.857h.214v7.716H3.527ZM16.6,16.668v7.716H14.028V16.668Zm-4.287,0v7.716H9.742V16.668Zm-6.858,0H8.027v7.716H5.455Z" transform="translate(-1.597 -9.468)"/>
+      <path id="Path_203" data-name="Path 203" class="cls-1" d="M.858,5.584H18.012a.858.858,0,0,0,.278-1.669L9.783.087a.859.859,0,0,0-.7,0L.506,3.944A.857.857,0,0,0,.858,5.584Z" transform="translate(0 -0.012)"/>
+    </g>
+  </g>
+</svg>

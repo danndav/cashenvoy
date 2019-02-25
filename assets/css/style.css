@@ -58,6 +58,11 @@ body{
 
 .header-payment li:hover {
     border-bottom: 3px solid #41295A;
+    color:#484848;
+  }
+
+  .header-payment li a:hover {
+    color:#484848;
   }
 
   .header-payment li a{

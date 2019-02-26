@@ -7,6 +7,10 @@ ul {
   padding:0px;
 }
 
+img{
+  margin-top:-4.5px;
+}
+
 a {
   text-decoration: none;
   color: #484848;
@@ -93,7 +97,7 @@ body{
 }
 
 #img-des{
-    margin-top:-10px;
+    margin-top:-1px;
     margin-bottom:-17px;
 }
 
@@ -107,7 +111,7 @@ body{
 .showcase{
     margin: 20px;
     padding-left: 0px;
-    padding-top: 15px;
+    padding-top: 16px;
 
 }
 
@@ -144,7 +148,7 @@ form{
     -webkit-box-shadow:1px 1px 7px 1px #ccc;
 -moz-box-shadow:1px 1px 7px 1px #ccc;
 box-shadow:1px 1px 7px 1px #ccc;
-margin-top:-30px
+margin-top:-25px
 
     
 }
@@ -166,6 +170,10 @@ margin-top:-30px
     #secure-pay{
         font-size:7px;
         text-transform:uppercase;
+      }
+
+      .lock{
+       padding-top:20px;
       }
 
 label{

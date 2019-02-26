@@ -22,7 +22,7 @@
     li{
         display: inline;
         padding-bottom:10px;
-        margin-right:10px;  
+        margin-right:18px!important;  
     }
     p{
         padding-top: 5px;
@@ -181,7 +181,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
     li{
         display: inline;
         padding-bottom:10px;
-        margin-right:10px;  
+        margin-right:22px !important ;  
     }
     p{
         padding-top: 5px;

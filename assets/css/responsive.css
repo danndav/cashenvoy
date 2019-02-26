@@ -1,7 +1,7 @@
 @media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 2) {
+  and (max-device-width: 360px) 
+  and (max-device-height: 640px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
 
     ol,
     ul {
@@ -22,7 +22,7 @@
     li{
         display: inline;
         padding-bottom:10px;
-        margin-right:18px!important;  
+        margin-right:16px!important;  
     }
     p{
         padding-top: 5px;
@@ -159,7 +159,7 @@ margin-top:-30px
 
 
 @media only screen 
-and (min-device-width : 320px) 
+and (max-device-width : 320px) 
 and (max-device-width : 568px) 
 and (-webkit-min-device-pixel-ratio: 2) {
     ol,
@@ -181,7 +181,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
     li{
         display: inline;
         padding-bottom:10px;
-        margin-right:22px !important ;  
+        margin-right:6px !important ;  
     }
     p{
         padding-top: 5px;
@@ -396,4 +396,45 @@ margin-top:-40px
         color: #077B50 !important;
         
     }
+}
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+  ol,
+    ul {
+      list-style: none;
+      margin-top: -10px;
+      padding:0px;
+    }
+    
+    a {
+      text-decoration: none;
+      color: #484848;
+      margin:0;
+      padding:0;
+      font-size:10px !important;
+    }
+    
+    
+    li{
+        display: inline;
+        padding-bottom:10px;
+        margin-right:1px!important;  
+    }
+    p{
+        padding-top: 5px;
+        font-size:10px;
+        margin:0;
+    }
+    
+    
+    #formPayment{
+        margin-top: 10px; 
+    }
+    
+    
+    
 }

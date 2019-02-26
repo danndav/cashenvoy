@@ -54,20 +54,14 @@
         
     }
     
-    .header-payment li:hover {
-        border-bottom: 3px solid #41295A;
-        
-        /* padding-top: 10px;
-        margin-left: 10px; */
-      }
-    
+   
       .header-payment li a{
         text-decoration: none;
       }
      
       .header-payment li {
         border-bottom: px solid #41295A;
-        padding-bottom:17px;
+        padding-bottom:15px !important;
       }
     .spa-right{
         float: right;
@@ -75,7 +69,7 @@
     
     }
     .spa-rights{    
-        margin-left: 80px !important;
+        margin-left: 90px !important;
         padding-left: 50px;
         
         
@@ -87,7 +81,7 @@
     }
     
     #naira{
-        margin-left: 68px;
+        margin-left: 70px;
         color: #077B50 !important;
         
     }
@@ -98,53 +92,58 @@
         padding-top: 15px;
     
     }
+   
+.form-control {
+    height: 50px;
+    padding: 17px 0;
+    font-size: 14px;
+    line-height: 1.42857;
+}
+.form-control,
+.form-group .form-control {
+    border: 0;
+    background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #41295A);
+    background-size: 0 2px, 100% 2px;
+    background-repeat: no-repeat;
+    background-position: center bottom, center calc(100% - 1px);
+    background-color: transparent;
+    transition: background 0s ease-out;
+    float: none;
+    box-shadow: none;
+    border-radius: 0;
+    font-weight: 400;
+    font-size: 10px;
+    border:1px #41295A;
+    height:5px
+
     
-    .form-control {
-        height: 36px;
-        padding: 7px 0;
-        font-size: 14px;
-        line-height: 1.42857;
+}
+
+form{
+    border: solid px #484848;
+    border-radius: 5px;
+    
+    -webkit-box-shadow:1px 1px 7px 1px #ccc;
+-moz-box-shadow:1px 1px 7px 1px #ccc;
+box-shadow:1px 1px 7px 1px #ccc;
+margin-top:-30px
+
+    
+}
+
+   .button{
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+    margin-bottom: 10px;
+    background: #41295A;
+    font-size:8px !important;
+    padding:8px 20px !important;
+   
     }
-    .form-control,
-    .form-group .form-control {
-        border: 0;
-        background-image: linear-gradient(#41295A, #41295A), linear-gradient(#41295A, #41295A);
-        background-size: 0 2px, 100% 2px;
-        background-repeat: no-repeat;
-        background-position: center bottom, center calc(100% - 1px);
-        background-color: transparent;
-        transition: background 0s ease-out;
-        float: none;
-        box-shadow: none;
-        border-radius: 0;
-        font-weight: 400;
-        font-size: 8px;
-        border:2px #41295A;
-        height:0px
-    
-        
-    }
-    
-    form{
-        border: solid px #484848;
-        
-        -webkit-box-shadow:1px 1px 7px 1px #ccc;
-    -moz-box-shadow:1px 1px 7px 1px #ccc;
-    box-shadow:1px 1px 7px 1px #ccc;
-    margin-top:-20px
-    
-        
-    }
-    
-    button{
-        margin-bottom: 10px;
-        padding: 20px;
-        background: #41295A;
-        color: #fff;
-        max-width:100px;
-        font-size:10px!important;
-       
-        }
+
     
         #secure-pay{
           margin-top:-15px
@@ -214,12 +213,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
         
     }
     
-    .header-payment li:hover {
-        border-bottom: 3px solid #41295A;
-        
-        /* padding-top: 10px;
-        margin-left: 10px; */
-      }
+ 
     
       .header-payment li a{
         text-decoration: none;
@@ -227,7 +221,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
      
       .header-payment li {
         border-bottom: px solid #41295A;
-        padding-bottom:17px;
+        padding-bottom:15px;
       }
     .spa-right{
         float: right;
@@ -247,7 +241,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
     }
     
     #naira{
-        margin-left: 68px;
+        margin-left: 75px;
         color: #077B50 !important;
         
     }
@@ -259,49 +253,51 @@ and (-webkit-min-device-pixel-ratio: 2) {
     
     }
     
-    .form-control {
-        height: 36px;
-        padding: 7px 0;
-        font-size: 14px;
-        line-height: 1.42857;
-    }
-    .form-control,
-    .form-group .form-control {
-        border: 0;
-        background-image: linear-gradient(#41295A, #41295A), linear-gradient(#41295A, #41295A);
-        background-size: 0 2px, 100% 2px;
-        background-repeat: no-repeat;
-        background-position: center bottom, center calc(100% - 1px);
-        background-color: transparent;
-        transition: background 0s ease-out;
-        float: none;
-        box-shadow: none;
-        border-radius: 0;
-        font-weight: 400;
-        font-size: 8px;
-        border:2px #41295A;
-        height:0px
+
+   
+.form-control {
+    height: 50px;
+    padding: 17px 0;
+    font-size: 14px;
+    line-height: 1.42857;
+}
+.form-control,
+.form-group .form-control {
+    border: 0;
+    background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #41295A);
+    background-size: 0 2px, 100% 2px;
+    background-repeat: no-repeat;
+    background-position: center bottom, center calc(100% - 1px);
+    background-color: transparent;
+    transition: background 0s ease-out;
+    float: none;
+    box-shadow: none;
+    border-radius: 0;
+    font-weight: 400;
+    font-size: 10px;
+    border:1px #41295A;
+    height:5px
+
     
-        
-    }
+}
+
+form{
+    border: solid px #484848;
+    border-radius: 5px;
     
-    form{
-        border: solid px #484848;
-        
-        -webkit-box-shadow:1px 1px 7px 1px #ccc;
-    -moz-box-shadow:1px 1px 7px 1px #ccc;
-    box-shadow:1px 1px 7px 1px #ccc;
-    margin-top:-20px
+    -webkit-box-shadow:1px 1px 7px 1px #ccc;
+-moz-box-shadow:1px 1px 7px 1px #ccc;
+box-shadow:1px 1px 7px 1px #ccc;
+margin-top:-40px
+
     
-        
-    }
+}
     
     button{
         margin-bottom: 10px;
         padding: 20px;
         background: #41295A;
         color: #fff;
-        max-width:100px;
         font-size:10px!important;
        
         }
@@ -373,20 +369,10 @@ and (-webkit-min-device-pixel-ratio: 2) {
         
     }
     
-    .header-payment li:hover {
-        border-bottom: 3px solid #41295A;
-        
-        /* padding-top: 10px;
-        margin-left: 10px; */
-      }
-    
-      .header-payment li a{
-        text-decoration: none;
-      }
-     
+   
       .header-payment li {
         border-bottom: px solid #41295A;
-        padding-bottom:17px;
+        padding-bottom:14px;
       }
        .spa-right{
         float: right;

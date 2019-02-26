@@ -183,3 +183,13 @@ label{
   
 }
 
+
+
+_::-webkit-full-page-media, _:future, :root .safari_only li {
+
+    
+        display: inline;
+        margin-right:24px;  
+
+
+}
